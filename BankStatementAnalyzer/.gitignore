@@ -1,0 +1,44 @@
+### IDEs and editors
+/.idea/
+*.iml
+*.iws
+
+### Build outputs
+/out/
+/target/
+/build/
+/bin/
+/dist/
+
+### Gradle / Maven
+/.gradle/
+.gradle/
+/.mvn/
+
+### Eclipse
+.classpath
+.project
+.settings/
+
+### NetBeans
+/nbproject/private/
+/nbbuild/
+
+### VS Code
+.vscode/
+
+### OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### Java artifacts
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+### Lib
+/lib/
